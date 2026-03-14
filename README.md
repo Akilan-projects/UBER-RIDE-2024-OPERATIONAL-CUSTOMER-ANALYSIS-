@@ -7,33 +7,33 @@ The dataset shows strong overall demand with 150K total bookings and 93K complet
 
 **🎯 Business Objectives**
 
-Understand ride demand and booking patterns
+- Understand ride demand and booking patterns
 
-Identify top vehicle types driving revenue
+- Identify top vehicle types driving revenue
 
-Analyze cancellation and incomplete ride reasons
+- Analyze cancellation and incomplete ride reasons
 
-Evaluate operational performance using VTAT and CTAT
+- Evaluate operational performance using VTAT and CTAT
 
-Examine customer retention and repeat usage
+- Examine customer retention and repeat usage
 
 **📈 Key Metrics**
 
-Total Bookings      -    	150K
+ Total Bookings      -    **150K**
 
-Completed Rides	    -      93K
+Completed Rides	    -     **93K**
 
-Customer Cancellations  -	10.5K
+Customer Cancellations  -	**10.5K**
 
-Driver Cancellations	 -   27K
+Driver Cancellations	 -   **27K**
 
-Incomplete Rides	     -   9K
+Incomplete Rides	     -   **9K**
 
-Average Driver Rating   -	4.23
+Average Driver Rating   -	**4.23**
 
-Average Customer Rating	 - 4.40
+Average Customer Rating	 - **4.40**
 
-Repeated Customers	   -   1,206
+Repeated Customers	   -   **1,206**
 
 **📊 Dashboard Insights**
 
@@ -51,25 +51,25 @@ Booking patterns remain relatively stable throughout the year, indicating consis
 
 A significant portion of rides are cancelled due to operational and coordination issues.
 
-Customer Cancellation Reasons
+**Customer Cancellation Reasons**
 
-Incorrect pickup address
+- Incorrect pickup address
 
-Change of travel plans
+- Change of travel plans
 
-Driver not moving toward pickup
+- Driver not moving toward pickup
 
-Drivers requesting cancellation
+- Drivers requesting cancellation
 
 **Driver Cancellation Reasons**
 
-Passenger-related issues
+- Passenger-related issues
 
-Health concerns
+- Health concerns
 
-Vehicle problems
+- Vehicle problems
 
-Passenger limit violations
+- Passenger limit violations
 
 These cancellations reduce operational efficiency and impact user experience.
 
@@ -93,49 +93,47 @@ Improving ride reliability, reducing cancellations, and implementing loyalty pro
 
 **🛠 Tools & Technologies**
 
-Data Analysis
+- Data Analysis
 
-Excel / Power BI
+- Excel / Power BI
 
-Data Visualization
+- Data Visualization
 
-Business Intelligence
+- Business Intelligence
 
 **📁 Project Structure**
 
-Uber-Ride-Analysis
+**Uber-Ride-Analysis**
 
 │
 
-├── dataset
+├── **dataset**
 
-│   └── uber_ride_data.csv
-
-│
-
-├── dashboard
-
-│   └── uber_dashboard.pbix
+│   └── **uber_ride_data.csv**
 
 │
 
-├── images
+├── **dashboard**
 
-│   └── dashboard_preview.png
+│   └── **uber_dashboard.pbix**
 
 │
 
-└── README.md
+└── **README.md**
 
 
 **📌 Key Business Recommendations**
 
-Reduce driver cancellation rates
-Improve pickup location accuracy
-Implement customer loyalty programs
-Enhance driver availability during peak hours
+- Reduce driver cancellation rates
+
+- Improve pickup location accuracy
+
+- Implement customer loyalty programs
+
+- Enhance driver availability during peak hours
 
 These improvements could increase ride completion rates and improve customer retention.
 
 **👨‍💻 Author**
+
 Akilan
